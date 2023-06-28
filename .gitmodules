@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "leaflet.minicharts"]
 	path = leaflet.minicharts
 	url = https://github.com/cran/leaflet.minicharts
-	shallow = true
-	registered = true
